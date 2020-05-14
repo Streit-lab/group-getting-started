@@ -89,7 +89,7 @@ R is a **_high-level_** programming language built using **_C_**
 
 When you install packages in R, they are by default installed globally on the host computer. This means that any R session you launch will have access to the same packages.
 
-Most packages are built in R are built using the R language. They are often built ontop of other R packages, but can also be dependant on chunks of **_C_** code. The important thing to note is that R packages are **_dependant_** on other code sources. Different packages or package versions can have conflicting dependencies, and this can cause major headaches. A simple yet elegant way to get around this issue is to use **_Renvironments_** (renv package).
+Most packages are built in R are built using the R language. They are often built ontop of other R packages, but can also be dependent on chunks of **_C_** code. The important thing to note is that R packages are **_dependent_** on other code sources. Different packages or package versions can have conflicting dependencies, and this can cause major headaches. A simple yet elegant way to get around this issue is to use **_Renvironments_** (renv package).
 
 <br>
 
