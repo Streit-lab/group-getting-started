@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src='https://github.com/Streit-lab-training/group-getting-started/tree/master/imagess/R_github_logo.png' width="40%"/>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/R_github_logo.png' width="40%"/>
 </p>
 
 Getting started with R is easy. However, before you dive right in it's important to set everything properly to save you time in the future!
