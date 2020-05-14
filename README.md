@@ -10,7 +10,7 @@ Getting started with R is easy. However, before you dive right in it's important
 <br>
 
 <p>
-  <img src='https://github.com/Streit-lab-training/group-getting-started/tree/master/images/Rlogo.png' width="15%"/>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/Rlogo.png' width="15%"/>
 </p>
 
 ***
@@ -24,7 +24,7 @@ If you haven't done already, go ahead and download [R](https://cloud.r-project.o
 <br>
 
 <p>
-  <img src='https://github.com/Streit-lab-training/group-getting-started/tree/master/images/github_logo.png' width="20%"/>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/github_logo.png' width="20%"/>
 </p>
 
 ***
@@ -41,7 +41,7 @@ Even though GitHub was primarily designed with collaboration in mind, it is good
 <br>
 
 <p>
-  <img src='https://github.com/Streit-lab-training/group-getting-started/tree/master/images/gitkraken_logo.png' width="35%"/>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/gitkraken_logo.png' width="35%"/>
 </p>
 
 ***
@@ -53,7 +53,7 @@ Through the application you can access and link online repositories to your loca
 From GitKraken you can also create repository **_branches_** which will will be essential when collaborating on projects. It also generates these beautiful commit graphs which allow you to see *what* changes where made *when* and by *who*.
 
 <p align="center">
-  <img src='https://github.com/Streit-lab-training/group-getting-started/tree/master/images/gitkraken_commit_graph.png' width="80%"/>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/gitkraken_commit_graph.png' width="80%"/>
 </p>
 
 It's good practice to regularly commit your changes, as this helps prevent you from breaking your code. It is also possible to use **_git_** directly from the command line to interact with GitHub, however I would recommend using GitKraken as the UI is fantastic.
