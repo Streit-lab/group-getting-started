@@ -70,7 +70,7 @@ This is particularly important if you are collaborating on a project as differen
 
 Therefore after creating a repository, it is important to create a **.gitignore** file in the base directory of that repository. This file tells GitKraken which files to ignore.
 
-For now, you don't need to worry about this too much - I have created a template *.gitignore* file [here](https://github.com/alexthiery/group-getting-started-R/blob/master/scripts/.gitignore). To download this file, click on the link, then right click on *'raw'* and select *'save link as'*. Save the link as *'.gitignore'* without any file type suffix. Now all you need to do is move this file to the base directory of your repository now.
+For now, you don't need to worry about this too much - I have created a template *.gitignore* file [here](https://github.com/Streit-lab/group-getting-started/tree/master/scripts). To download this file, click on the link, then right click on *'raw'* and select *'save link as'*. Save the link as *'.gitignore'* without any file type suffix. Now all you need to do is move this file to the base directory of your repository now.
 
 <br>
 
