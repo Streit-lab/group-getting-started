@@ -99,7 +99,7 @@ renv
 renv allows you to create separate Renvironments for different projects. This allows you to isolate the packages you install within the Renvironment from other repositories. This means that the packages you use in one project will not effect the packages you use in another.
 
 To get started you will first need to install renv globally and then initialise a new Renvironment in your repository of interest.
-To do this, open Rstudio and run `install.packaes('renv')`
+To do this, open Rstudio and run `install.packages('renv')`
 
 renv is now globally installed on your computer
 
